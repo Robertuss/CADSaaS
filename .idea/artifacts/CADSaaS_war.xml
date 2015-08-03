@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="CADSaaS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CADSaaS.war">
+      <element id="artifact" artifact-name="CADSaaS:war exploded" />
+    </root>
+  </artifact>
+</component>
